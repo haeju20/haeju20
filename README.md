@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @haeju20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... -> 1712wltn@gmail.com
+- 🌱 I’m currently learning computer science engineering
+- email: 1712wltn@gmail.com
+- velog: https://velog.io/@mirumi
 
 <!---
 haeju20/haeju20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
